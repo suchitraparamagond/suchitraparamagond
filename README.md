@@ -1,18 +1,191 @@
-# 💫 About Me:
-I am a Computer Science Engineering student with a strong interest in software development. I have knowledge in Python, SQL.
+# Hi 👋, I'm Suchitra Paramagond
 
+### 💻 Computer Science Graduate | 📊 Data Analyst | 🐍 Python & Data Science Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/suchitra-paramagond-313524335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suchitraparamagond@gmail.com) 
+Welcome to my GitHub profile! 👋
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suchitraparamagond&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=suchitraparamagond&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suchitraparamagond&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a **Computer Science Engineering graduate** with a strong interest in **Data Analytics, Data Science, Machine Learning, and Python Development**.
+
+I enjoy working with data, building machine learning models, creating dashboards, and solving real-world problems using technology.
 
 ---
-[![](https://komarev.com/ghpvc/?username=suchitraparamagond&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+* 🎓 B.E. in Computer Science & Engineering — **VTU**
+* 📅 Graduated in **2026**
+* 📊 Interested in **Data Analytics & Data Science**
+* 🐍 Learning and working with **Python**
+* 🗄️ Strong foundation in **SQL**
+* 📈 Interested in **Power BI & Data Visualization**
+* 🤖 Exploring **Machine Learning**
+* 🔄 Familiar with **ETL/ELT concepts**
+* 🌱 Continuously improving my technical and analytical skills
+* 💼 Open to opportunities in **Data Analytics, Data Science & Software Development**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Querying
+
+`Python` `SQL`
+
+### 📊 Data Analysis
+
+`Pandas` `NumPy` `Excel`
+
+### 📈 Data Visualization & BI
+
+`Matplotlib` `Seaborn` `Power BI` `DAX`
+
+### 🤖 Machine Learning
+
+`Scikit-learn` `Regression Analysis` `Machine Learning` `Feature Engineering`
+
+### 🧹 Data Preparation
+
+`Data Cleaning` `Data Preprocessing` `Data Validation` `Feature Selection`
+
+### 🔄 Data Engineering Concepts
+
+`ETL` `ELT` `Databricks`
+
+### 🌐 Web Development
+
+`HTML` `CSS`
+
+### 🔧 Tools
+
+`Git` `GitHub` `Jupyter Notebook`
+
+---
+
+## 💼 Internship Experience
+
+### 🐍 Python with Data Science Intern
+
+**Robowaves India Pvt. Ltd.**
+
+* Worked with **Python, SQL, Excel and Power BI**.
+* Performed data cleaning, transformation and validation.
+* Conducted **Exploratory Data Analysis (EDA)**.
+* Created SQL queries using **JOIN, GROUP BY, ORDER BY, aggregate functions and subqueries**.
+* Applied data preprocessing techniques including missing-value handling, duplicate removal, transformation and feature encoding.
+
+### 🌐 Python Full Stack Intern
+
+**Xcel-Corp**
+
+* Developed responsive web pages using **HTML and CSS**.
+* Gained hands-on exposure to **Python Full Stack Development**.
+* Worked with front-end and back-end development workflows.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Agricultural Yield Prediction
+
+**Machine Learning | Regression | Deep Learning**
+
+Developed a machine learning solution to predict agricultural crop yield.
+
+**Technologies:**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook`
+
+**Key Work:**
+
+* Data cleaning and preprocessing
+* Feature selection
+* Machine learning model development
+* Regression techniques
+* Data visualization
+* Model result analysis
+
+---
+
+### 🏠 House Price Prediction
+
+**Machine Learning | Regression**
+
+Developed a regression-based machine learning model to predict house prices from historical housing data.
+
+**Technologies:**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook`
+
+**Key Work:**
+
+* Data cleaning
+* Data preprocessing
+* Exploratory Data Analysis
+* Model training and validation
+* Comparing multiple machine learning models
+* Selecting the best-fit estimator
+
+---
+
+## 📚 Currently Learning
+
+* 🐍 Advanced Python
+* 🗄️ Advanced SQL
+* 📊 Data Analytics
+* 📈 Power BI & DAX
+* 🤖 Machine Learning
+* 🔄 ETL/ELT
+* ☁️ Data Engineering Concepts
+* 📊 Advanced Data Visualization
+
+---
+
+## 🎓 Education
+
+### Bachelor of Engineering — Computer Science & Engineering
+
+**VTU University**
+**Graduated: 2026**
+**CGPA: 8.57 / 10**
+
+---
+
+## 📜 Certifications
+
+* 🏆 Python with Data Science — **QSpiders**
+* 🏆 Python Full Stack — **Xcel-Corp**
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [suchitraparamagond@gmail.com](mailto:suchitraparamagond@gmail.com)
+
+💼 **LinkedIn:**
+linkedin.com/in/suchitra-paramagond-313524335
+
+---
+
+## 💡 My Tech Stack
+
+```text
+Python          ████████████████████
+SQL             ███████████████████
+Pandas          ██████████████████
+NumPy           █████████████████
+Power BI        ████████████████
+Excel           ███████████████
+Scikit-learn    ███████████████
+Matplotlib      ██████████████
+Seaborn         █████████████
+Git & GitHub    ████████████
+HTML & CSS      ███████████
+```
+
+---
+
+## ⭐ Let's Connect!
+
+I'm interested in **Data Analytics, Data Science, Machine Learning, and Software Development opportunities**.
+
+Thanks for visiting my profile! 😊
